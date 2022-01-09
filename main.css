@@ -298,8 +298,7 @@ footer {
     background-color: #dc5e26;
     box-shadow: 0px 6px rgb(221 95 38 / 20%);
     margin-right: 30px;
-    height: 150px;
-    
+    height: 150px;   
 }
 
 .features__rate-box {
@@ -324,7 +323,6 @@ footer {
     background-position: center;
     width: 50%;
     background-size: cover;
-    
 }
 
 .promo__right {
